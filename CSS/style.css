@@ -1,0 +1,176 @@
+body{
+    padding:.2em;
+    background-image: url(../Images/cliffs.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: cursive;
+    color:steelblue;
+    
+}
+
+header{
+    text-align: center;
+    padding:.2em;
+    margin: .2em 0em;
+    color: steelblue;
+    font-size: 150%;
+}
+
+nav{
+    margin: .2em .2em 0em;
+    opacity: 0.8;
+    background-color:black;
+    margin-bottom: .5em;
+}
+
+section{
+    padding:.5em;
+    margin: .2em;
+
+    opacity: 0.8;
+}
+
+article{
+    padding:.5em;
+    margin: .2em;
+}
+
+aside{
+    padding:.5em;
+    margin: .2em;
+}
+
+footer{
+    margin: .2em;
+    background-color: black;
+    height: 2em;
+    width: 100%;
+    opacity: 0.8;
+    text-align: center;
+    margin-top: 30%;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    padding:.1em;
+    text-align: center;
+
+}
+
+img{
+    opacity: 0.99;
+    border-radius: 8px;
+    width: 80%;
+    height: 80%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 2px solid black;
+    padding: .5em;
+    text-align: left;
+}
+
+tr:hover {
+    background-color: white;
+}
+
+a{
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color:steelblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: dimgrey;
+}
+
+li a:active{
+    color:black;
+}
+figcaption{
+    text-align: center;
+    font-size: 140%;
+}
+
+.homepage{
+    width:60%;
+    padding: .5em;
+    margin-left: 18%;
+    opacity: 0.9;
+    background-color: darkgrey;
+}
+
+.history{
+    float:left;
+    width:70%;
+    background-color: darkgrey;
+}
+.irish {
+    margin-left:74%;
+    background-color: darkgrey;
+}
+
+.facts {
+    background-color: darkgrey;
+    margin-left: 30%;
+    margin-right: 31%;
+}
+
+
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 340px;
+    background-color: darkgray;
+}
+
+div.gallery:hover {
+    border: 1px solid black;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.view {
+    padding: 15px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
